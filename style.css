@@ -65,17 +65,19 @@ p {
     }
 }
 
-.callout-box p {
+.callout-box {
     font-family: 'Raleway', sans-serif;
     font-size: 16px;
     font-weight: 400;
-    color: #fff;
-    background: #e59500;
-    border-radius: 5px;
+    background: #f2f2f2;
+    border-radius: 2px;
     margin: 24px 0px;
+    padding: 24px;
 }
 
-
+.callout-box p {
+    color: #e59500;
+}
 
 h5 {
     font-family: 'Raleway', sans-serif;
@@ -288,6 +290,7 @@ h3 {
     font-weight: 700;
     color: rgb(132, 0, 50);
     padding: 1rem 0rem 1rem 0rem;
+    text-decoration: underline;
 }
 
 .gobackbtn:hover {
