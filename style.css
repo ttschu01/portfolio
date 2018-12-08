@@ -418,3 +418,19 @@ h3 {
     border: #cecece solid 1px;
     margin: 8px;
 }
+
+.coming-soon {
+    text-align: center;
+}
+
+.coming-soon a {
+    color: #840032;
+}
+
+.coming-soon a:hover {
+    color: rgb(208, 69, 162);
+}
+
+.card-columns {
+    opacity: 0;
+}
